@@ -1,9 +1,7 @@
 Blackberry-Z10-Pokedex-App-SE2250-Final-Project
 ===============================================
 02/12/2013
-
 A simple application that provides information on all pokemon in multiple languages
-
 ===============================================
 
 This application is designed to have the following features: 
